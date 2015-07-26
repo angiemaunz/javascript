@@ -27,3 +27,5 @@ Variables
 // If we declare a variable without using the var keyword it is automatically become a global variable even inside a function.
 
 var theMeaningOfLife = 42;
+
+var foo = 'bar';
